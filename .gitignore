@@ -54,3 +54,4 @@ dkms.conf
 # SGDK Builds
 out/
 src/boot/
+resources.h
